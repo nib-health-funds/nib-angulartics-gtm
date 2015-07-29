@@ -1,6 +1,6 @@
 {
   "name": "nib-angulartics-gtm",
-  "version": "0.17.0",
-  "main": "nib-angulartics-gtm.js",
+  "version": "0.17.1",
+  "main": "index.js",
   "description": "An npm repository to hold angulartics used by nib"
 }
